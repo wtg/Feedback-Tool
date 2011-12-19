@@ -1,0 +1,13 @@
+Feedback Collection Tool
+========================
+
+The Feedback Collection tool is a web application that makes it simple for students to send feedback about things at RPI to the Senate and the appropriate people in charge.
+
+TODO:
+
+Write backend code.
+Import initial data set (Senate Committees + Liason Network)
+
+More Information:
+Project Page on Senate Wiki: http://wiki.studentsenate.rpi.edu/w/Feedback_Tool
+Ken's Google Docs Presentation for Foundations of HCI Usability: https://docs.google.com/present/edit?id=0AUcmZHs78qsGZGc1anhiYjZfMWc0YnBjOGd3
