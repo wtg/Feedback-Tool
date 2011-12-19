@@ -1,3 +1,6 @@
 # Mac OS X cruft
 .DS_Store
 ._*
+
+# Remove Espresso project files.
+*.esproj
