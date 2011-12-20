@@ -140,7 +140,9 @@ function addContact(name, department, email, contact_id)
 	var hCard = $(document.createElement('span'));
 	$(hCard).addClass('vcard');
 	$(hCard).append(hCard_org);
+	$(hCard).append("&nbsp;");
 	$(hCard).append(hCard_name);
+	$(hCard).append("&nbsp;");
 	$(hCard).append(hCard_email);
 	
 	var label = $(document.createElement('label'));
