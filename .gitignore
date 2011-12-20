@@ -4,3 +4,8 @@
 
 # Remove Espresso project files.
 *.esproj
+
+# Ruby on Rails
+db/*.sqlite3
+log/*.log
+tmp/**/*
